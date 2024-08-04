@@ -15,8 +15,9 @@ class Solution {
         Arrays.sort(array);
 
         int result =0;
+        int mod = 1000000007;
         for(int i=left-1; i<right; i++){
-            result = (result + array[i])%1000000007;
+            result = (result + array[i])%mod;
         }
         return result;
     }
