@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0217-contains-duplicate) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -26,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0217-contains-duplicate) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0217-contains-duplicate) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2502-sort-the-people](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2502-sort-the-people) |
