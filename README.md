@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0217-contains-duplicate](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0260-single-number-iii) |
 | [0661-image-smoother](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0661-image-smoother) |
@@ -57,10 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0661-image-smoother](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0661-image-smoother) |
 | [0921-spiral-matrix-iii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0921-spiral-matrix-iii) |
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0921-spiral-matrix-iii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
