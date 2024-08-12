@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0217-contains-duplicate](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0260-single-number-iii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0661-image-smoother](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0661-image-smoother) |
 | [0921-spiral-matrix-iii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0921-spiral-matrix-iii) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0048-rotate-image) |
 | [0273-integer-to-english-words](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0273-integer-to-english-words) |
 ## Recursion
 |  |
