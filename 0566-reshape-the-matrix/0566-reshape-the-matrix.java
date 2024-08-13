@@ -5,8 +5,8 @@ class Solution {
         int[][] resultArray = new int[r][c];
 
         int length = mat.length* mat[0].length;
-        int length2 = resultArray.length * resultArray[0].length;
-        if(length == length2)
+        
+        if(length == (r*c))
         {
             int array1D[] = new int[length];
             int k=0;
