@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0661-image-smoother) |
+| [0898-transpose-matrix](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -67,12 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0661-image-smoother) |
+| [0898-transpose-matrix](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0921-spiral-matrix-iii) |
 ## Simulation
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0566-reshape-the-matrix) |
+| [0898-transpose-matrix](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0921-spiral-matrix-iii) |
 ## Math
 |  |
