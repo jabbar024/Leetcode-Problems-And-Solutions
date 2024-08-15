@@ -88,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0273-integer-to-english-words) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
