@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0217-contains-duplicate](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0260-single-number-iii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0661-image-smoother) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0898-transpose-matrix) |
