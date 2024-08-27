@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0273-integer-to-english-words) |
+| [0443-string-compression](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0443-string-compression) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2727-number-of-senior-citizens) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0443-string-compression) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
