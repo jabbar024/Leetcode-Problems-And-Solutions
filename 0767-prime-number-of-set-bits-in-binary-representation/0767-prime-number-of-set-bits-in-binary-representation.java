@@ -1,6 +1,6 @@
 class Solution {
 
-    public static boolean countSetBit(int num)
+    public static int countSetBit(int num)
     {
         int count =0;
         while(num>0)
@@ -11,33 +11,17 @@ class Solution {
             }
             num = num>>1;
         }
-        return isPrime(count);
+        return count;
     }
 
-    public static boolean isPrime(int num)
-    {
-        int den =2;
-        for(;den<num; den++)
-        {
-            if(num%den == 0)
-            {
-                return false;
-            }
-        }
-        if(den == num)
-        {
-            return true;
-        }
-        return false;
-    }
-
-
+   
     public int countPrimeSetBits(int left, int right) {
+        int prime = 665772;
         int count =0;
 
         for(int i=left; i<=right; i++)
         {
-            if(countSetBit(i))
+            if(((prime>>countSetBit(i))&1) == 1)
             {
                 count++;
             }
