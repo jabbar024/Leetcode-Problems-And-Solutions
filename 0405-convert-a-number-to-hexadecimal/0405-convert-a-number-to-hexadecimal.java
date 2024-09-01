@@ -6,7 +6,7 @@ class Solution {
 
         if(num==0)
         {
-            return hexArray[num];
+            return "0";
         }
 
         while(num!=0)
