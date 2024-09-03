@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0273-integer-to-english-words](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0273-integer-to-english-words) |
 | [0443-string-compression](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0443-string-compression) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2727-number-of-senior-citizens) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0921-spiral-matrix-iii) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Math
 |  |
