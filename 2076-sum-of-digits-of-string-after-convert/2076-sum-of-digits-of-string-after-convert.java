@@ -2,10 +2,10 @@ class Solution {
     public int getLucky(String s, int k) {
         
         int num =0;
-        String number = "";
+        StringBuilder number = new StringBuilder() ;
         for(int i=0; i<s.length(); i++)
         {
-            number = number+ (s.charAt(i)-96);
+            number.append((s.charAt(i)-96));
         }
 
         for(int i=0; i<number.length(); i++)
