@@ -12,8 +12,9 @@ class Solution {
         {
             num+= number.charAt(i)-'0';
         }
+        k--;
 
-        for(int i=0; i<k-1; i++)
+        while(k!=0)
         {
             int sum =0;
             for(int j=num; j>0; j/=10)
@@ -21,7 +22,7 @@ class Solution {
                 int digit = j%10;
                 sum+=digit;
             }
-
+            k--;
             num = sum;
         }
 
