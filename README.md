@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0921-spiral-matrix-iii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0258-add-digits) |
 | [0273-integer-to-english-words](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0273-integer-to-english-words) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/1827-invalid-tweets) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
