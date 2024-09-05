@@ -1,7 +1,7 @@
 class Solution {
     public String multiply(String num1, String num2) {
 
-        
+
         if(num1.equals("0") || num2.equals("0"))
         {
             return "0";
@@ -32,7 +32,7 @@ class Solution {
             powerFactor++;
         }
 
-        String str="";
+        StringBuilder str = new StringBuilder();
         boolean bl = false;
         for(int i=0; i<resultArray.length; i++)
         {
@@ -43,11 +43,11 @@ class Solution {
             else
             {
                 bl = true;
-                str += resultArray[i];
+                str.append(resultArray[i]);
             }
         }
 
-        return str;
+        return str.toString();
         
     }
 }
