@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0043-multiply-strings) |
 | [0273-integer-to-english-words](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0273-integer-to-english-words) |
 | [0443-string-compression](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0443-string-compression) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0258-add-digits) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0258-add-digits) |
