@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0036-valid-sudoku) |
+| [0202-happy-number](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0217-contains-duplicate) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0443-string-compression) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0258-add-digits) |
 | [0273-integer-to-english-words](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0273-integer-to-english-words) |
