@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0273-integer-to-english-words) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
