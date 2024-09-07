@@ -6,9 +6,9 @@ class Solution {
             return "1";
         }
 
-        String say = countAndSay(n-1);
+        String say = countAndSay(n-1); 
 
-        String result = "";
+        StringBuilder result = new StringBuilder();
 
         for(int i=0; i<say.length(); i++)
         {
@@ -19,9 +19,9 @@ class Solution {
                 i++;
                 count++;
             }
-            result += Integer.toString(count) + ch;
+            result.append(Integer.toString(count) + ch);
         } 
-        return result;
+        return result.toString();
         
     }
 }
