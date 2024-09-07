@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0043-multiply-strings) |
 | [0273-integer-to-english-words](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0273-integer-to-english-words) |
 | [0443-string-compression](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0443-string-compression) |
