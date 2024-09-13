@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2502-sort-the-people) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0043-multiply-strings) |
 | [0273-integer-to-english-words](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0273-integer-to-english-words) |
 | [0443-string-compression](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0443-string-compression) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2502-sort-the-people) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0338-counting-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0217-contains-duplicate) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2502-sort-the-people) |
 | [3324-split-the-array](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/3324-split-the-array) |
@@ -80,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3324-split-the-array](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/3324-split-the-array) |
 ## Matrix
