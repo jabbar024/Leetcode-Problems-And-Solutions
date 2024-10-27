@@ -5,11 +5,12 @@ class Solution {
          {
             return s;
         }
-        String [] array = new String[numRows];
-        String ans = "";
-        for(int i=0; i<numRows; i++)
+
+        StringBuilder [] array = new StringBuilder[numRows];
+
+        for(int i=0; i<array.length; i++)
         {
-            array[i] = "";
+            array[i] = new StringBuilder();
         }
 
         for(int i=0; i<s.length(); )
@@ -20,7 +21,7 @@ class Solution {
                 {
                     break;
                 }
-                array[j] += s.charAt(i);
+                array[j].append(s.charAt(i));
                 i++;
                 
             }
@@ -31,18 +32,19 @@ class Solution {
                 {
                     break;
                 }
-                array[j] += s.charAt(i);
+                array[j].append(s.charAt(i));
                 i++;
                 
             }
         }
 
+        StringBuilder  ans = new StringBuilder();
         for(int i=0; i<array.length; i++)
         {
-            ans+=array[i];
+            ans.append(array[i]);
         }
 
-        return ans;
+        return ans.toString();
 
     }
 }
