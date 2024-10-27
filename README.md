@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0043-multiply-strings) |
 | [0273-integer-to-english-words](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0273-integer-to-english-words) |
