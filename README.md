@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0118-pascals-triangle](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0283-move-zeroes) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0338-counting-bits) |
 ## Bit Manipulation
 |  |
