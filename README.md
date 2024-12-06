@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2502-sort-the-people) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2727-number-of-senior-citizens](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [3324-split-the-array](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/3324-split-the-array) |
 ## String
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2502-sort-the-people) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3324-split-the-array](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/3324-split-the-array) |
 ## Sorting
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2502-sort-the-people](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2502-sort-the-people) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Counting
 |  |
 | ------- |
@@ -165,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0812-rotate-string) |
+## Greedy
+|  |
+| ------- |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 <!---LeetCode Topics End-->
