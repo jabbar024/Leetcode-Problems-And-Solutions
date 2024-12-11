@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0043-multiply-strings) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0217-contains-duplicate) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0202-happy-number) |
