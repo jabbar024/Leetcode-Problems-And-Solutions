@@ -26,7 +26,7 @@ class Solution {
 
     public String intToRoman(int num) 
     {
-        String ans = "";
+        StringBuilder ans = new StringBuilder();
         int mod = 1;
 
         while(num>0)
@@ -37,23 +37,23 @@ class Solution {
 
             if( last!=0 && (last-array[index1])==0)
             {
-                ans = str[index1]+ans;
+                ans.insert(0, str[index1]);
             }
             else
             {
-                String temp = "";
+                StringBuilder temp = new StringBuilder();
                 for(int i=last; i>0; )
                 {
                     int index = getRoman(i);
-                    temp = temp+str[index];
+                    temp.append(str[index]);
                     i = i-array[index];
                 } 
-               ans = temp+ans;
+               ans.insert(0, temp);
             }
             
             num = num-last;
 
         }
-        return ans;
+        return new String(ans);
     }
 }
