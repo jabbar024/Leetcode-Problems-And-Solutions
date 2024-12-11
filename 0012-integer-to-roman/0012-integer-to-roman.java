@@ -15,7 +15,7 @@ class Solution {
             {
                 return i-1;
             }
-             else if(i==array.length-1)
+            else if(i==array.length-1)
             {
                 return i;
             }
@@ -33,10 +33,11 @@ class Solution {
         {
             mod = mod*10;
             int last = num%mod;
+            int index1 = getRoman(last);
 
-            if( last!=0 && (last-array[getRoman(last)])==0)
+            if( last!=0 && (last-array[index1])==0)
             {
-                ans = str[getRoman(last)]+ans;
+                ans = str[index1]+ans;
             }
             else
             {
