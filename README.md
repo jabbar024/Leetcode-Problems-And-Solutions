@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0273-integer-to-english-words](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0273-integer-to-english-words) |
+| [0412-fizz-buzz](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0812-rotate-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0921-spiral-matrix-iii) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0273-integer-to-english-words) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0412-fizz-buzz) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
