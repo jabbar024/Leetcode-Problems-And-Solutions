@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0043-multiply-strings) |
@@ -207,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
