@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0048-rotate-image) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0273-integer-to-english-words) |
 ## Database
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
