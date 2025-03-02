@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0338-counting-bits) |
 ## Bit Manipulation
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
