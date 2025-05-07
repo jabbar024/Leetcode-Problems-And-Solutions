@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0338-counting-bits) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0168-excel-sheet-column-title) |
