@@ -2,18 +2,23 @@ class Solution {
     public int lengthOfLongestSubstring(String s) 
     {
         int maxLength = 0 ;
-        if(s.length()==1)
+        int stringSize = s.length() ;
+
+        if(stringSize==1)
         {
             return 1 ;
         }
-        for(int i=0; i<s.length(); i++)
+        for(int i=0; i<stringSize; i++)
         {
-            String tempStr = String.valueOf(s.charAt(i));
-            for(int j=i+1; j<s.length(); j++)
+            StringBuilder tempStr = new StringBuilder(String.valueOf(s.charAt(i)));
+
+            for(int j=i+1; j<stringSize; j++)
             {
-                if( ! tempStr.contains(String.valueOf(s.charAt(j))) )
+                String tempChar = String.valueOf(s.charAt(j)) ;
+
+                if(tempStr.indexOf(tempChar) == -1 )
                 {
-                    tempStr += s.charAt(j) ;
+                    tempStr.append(tempChar);
                 }
                 else
                 {
@@ -27,9 +32,4 @@ class Solution {
         return maxLength ;      
     }
 
-    public static boolean charContain(String str, String c)
-    {
-        return str.contains(c);
-
-    }
 }
