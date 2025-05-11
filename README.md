@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0008-string-to-integer-atoi) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0202-happy-number) |
@@ -231,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
