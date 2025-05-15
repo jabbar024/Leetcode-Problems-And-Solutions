@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2502-sort-the-people) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2727-number-of-senior-citizens](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2727-number-of-senior-citizens) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3324-split-the-array](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/3324-split-the-array) |
 ## String
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2727-number-of-senior-citizens) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3540-hash-divided-string](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/3540-hash-divided-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Dynamic Programming
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/0338-counting-bits) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/jabbar024/Leetcode-Problems-And-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Stack
 |  |
